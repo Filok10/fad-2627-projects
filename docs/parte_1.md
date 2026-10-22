@@ -79,7 +79,7 @@ B»); l'inferenza stabilisce se quello che si è osservato è compatibile con il
    Se il vostro confronto ha **più di due gruppi**, confrontate le coppie che vi
    interessano davvero e dite quante ne avete confrontate (punto 6). In alternativa,
    la regressione della §5 tratta tutti i gruppi in un modello solo, con le variabili
-   dummy: è la strada più pulita, e la vedete a lezione il 27 ottobre.
+   dummy: è la strada più pulita, e la vedete a lezione il 29 ottobre.
 4. **Verificate le assunzioni** prima di fidarvi del risultato: la normalità con un Q-Q
    plot o un test (Shapiro-Wilk, D'Agostino), e guardate la dimensione dei gruppi. Se
    l'assunzione non regge, ditelo e trattate il risultato per quello che è.
